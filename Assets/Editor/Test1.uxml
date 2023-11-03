@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Test1" style="opacity: 1; display: flex; visibility: visible; overflow: visible; position: absolute; top: 14px; left: 142px; max-width: 203px; max-height: 150px; align-items: auto; justify-content: center; flex-basis: auto; color: rgb(255, 239, 239); font-size: 24px;" />
+    <ui:ListView focusable="true" style="height: 452px;" />
+    <ui:Button text="Button 1" display-tooltip-when-elided="true" />
+    <ui:Label text="Label" display-tooltip-when-elided="true" />
+</ui:UXML>

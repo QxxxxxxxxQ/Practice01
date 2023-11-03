@@ -1,0 +1,21 @@
+
+#grid-background {
+    position: relative;
+    flex-grow: 0;
+    --grid-background-color: rgb(40, 40, 40);
+    --line-color : rgba(26, 24, 24, 1);
+    --thick-line-color : rgba(204, 192, 192, 0.25);
+    --spacing : 40;
+    --thick-lines : 25;
+    --grid-color: rgb(134, 102, 102);
+}
+
+#mainMenuPanel {
+    width: 350px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgba(44, 44, 44, 1);
+    margin-right: -100px;
+}
